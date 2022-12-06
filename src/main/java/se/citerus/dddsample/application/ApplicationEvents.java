@@ -11,7 +11,7 @@ import se.citerus.dddsample.interfaces.handling.HandlingEventRegistrationAttempt
  * It may be implemented synchronously or asynchronously, using
  * for example JMS.
  */
-public interface ApplicationEvents {
+public interface  ApplicationEvents {
 
   /**
    * A cargo has been handled.
